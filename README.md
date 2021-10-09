@@ -1,1 +1,1 @@
-## Voltmeter using ADC128S102 - VHDL
+## FPGA-based Logic Analyzer Using ADC128S102 - VHDL
