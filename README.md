@@ -4,4 +4,12 @@ The RTL schematic of the module is shown in the figure below.
 
 ![RTL Schematic](rtl-schematic.jpg)
 
+The utilizatiion summary when the code is synthesized on a Xilinx XC6SLX9 FPGA is shown in this table:
+
+| |Used|Available|Utilization|
+|--|--|--|--|
+Number of Slice Registers|522|11,440|4%|
+Number of Slice LUTs|763|5,720|13%|
+Number of occupied Slices|267|1,430|18%|
+
 TO_DO: Develop a MATLAB program to read serial data with 115200 bits/s baud-rate and plot them.
