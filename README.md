@@ -11,5 +11,6 @@ The utilizatiion summary when the code is synthesized on a Xilinx XC6SLX9 FPGA i
 Number of Slice Registers|522|11,440|4%|
 Number of Slice LUTs|763|5,720|13%|
 Number of occupied Slices|267|1,430|18%|
+Number of bonnded IOBs|30|102|29%
 
 TO_DO: Develop a MATLAB program to read serial data with 115200 bits/s baud-rate and plot them.
