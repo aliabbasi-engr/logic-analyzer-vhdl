@@ -15,7 +15,7 @@ Number of occupied Slices|267|1,430|18%|
 Number of bonded IOBs|30|102|29%
 
 ## How to Use
-Create a new project in your desired synthesis or simulation tool and add all 
+Create a new project in your desired synthesis or simulation tool, and add all 
 ".vhd" files to your project. Remember to choose "Logic_Analyzer.vhd" as the top-level entity.
 The project is tested on Xilinx ISE Design Suite v14.7.
 
