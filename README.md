@@ -18,7 +18,7 @@ Number of bonded IOBs|30|102|29%
 ## How to Use
 Create a new project in your desired synthesis or simulation tool and add all 
 ".vhd" files to your project. Remember to choose "Logic_Analyzer.vhd" as the top-level entity.
-The project is tested on Altera Quartus Prime Lite Edition v16.1
+The project is tested on Xilinx ISE Design Suite v14.7.
 
 ## TO-DO
 - [ ] Develop a MATLAB program to read serial data with 115200 bits/s baud-rate and plot them.
