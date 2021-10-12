@@ -1,5 +1,4 @@
 # FPGA-based Logic Analyzer
-## Introduction
 In this project, a logic analyzer is implemented on a Xilinx Spartan-6 XC6SLX9 using VHDL language. The module can read analog data from 8 different channels and show them on a 7-Segment. The measured data are also sent through the UART communication protocol to be used in other devices. As Spartan-6 does not provide analog inputs, an ADC128S102 converts analog measured data to digital for further processing by the FPGA.
 The RTL schematic of the module is shown in the figure below.
 
