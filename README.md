@@ -13,4 +13,4 @@ Number of Slice LUTs|763|5,720|13%|
 Number of occupied Slices|267|1,430|18%|
 Number of bonded IOBs|30|102|29%
 
-**TO_DO:** Develop a MATLAB program to read serial data with 115200 bits/s baud-rate and plot them.
+- [ ] Develop a MATLAB program to read serial data with 115200 bits/s baud-rate and plot them.
